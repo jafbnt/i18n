@@ -1,0 +1,102 @@
+{
+  "shared":{
+    "copy_rights": "Copyright ©",
+    "company": " - D3 Software Solitions ",
+    "all_rights": "- Todos os direitos reservados",
+    "version": "v1.0.0-beta"
+  },
+  "auth": {
+    "login": {
+      "title": "Faça login na sua conta",
+      "username": "Usuário",
+      "password": "senha",
+      "forgot-password": "esqueci a senha",
+      "access": "Acessar",
+      "copy-rights": "Todos os direitos reservados",
+      "company": "© D3SS"
+    },
+    "forgot-password": {
+      "title": "Esqueceu sua senha",
+      "text": "Insira seu endereço de e-mail e nós lhe enviaremos um token para redefinir sua senha.",
+      "username": "Usuário",
+      "email": "Email",
+      "send": "Enviar token para mim",
+      "link": "Esqueça, Me envie de volta para a tela de",
+      "page": "login"
+    },
+    "reset-password": {
+      "title": "Alterar senha",
+      "text": "Digite sua nova senha e repita a senha.",
+      "password": "Senha",
+      "r-password": "Repita senha",
+      "send": "Alterar senha",
+      "link": "Esqueça, Me envie de volta para a tela de",
+      "page": "login"
+    }
+  },
+  "menu": {
+    "main": {
+      "system": {
+        "label": "Sistema en",
+        "system_table": {
+          "label": "Tabelas de Sistema",
+          "materials": { "label": "Materiais" },
+          "type_repositors": { "label": "Tipo de repositório" },
+          "operations": { "label": "Operações" },
+          "services": { "label": "Serviços" }
+        },
+        "customer_table": {
+          "label": "Tabelas de clientes",
+          "customer": { "label": "Clientes" },
+          "departments": { "label": "Departamentos" },
+          "branch": { "label": "Filial" },
+          "document_type": { "label": "Tipo de documento" }
+        },
+        "cedoc_table": {
+          "label": "Tabelas de CEDOC",
+          "company": { "label": "Empresa" },
+          "deposit": { "label": "Depósito" },
+          "modules": { "label": "Módulos" },
+          "positions": { "label": "Posições" }
+        }
+      },
+      "administration": {
+        "label": "Administração",
+        "user_registration": {
+          "label": "Cadastro  de Usuários",
+          "user_client": { "label": "Usuários de Clientes" },
+          "user_company": { "label": "Usuários de Empresas" }
+        },
+        "group_registration": {
+          "label": "Cadastro  de Grupos",
+          "group_customer": { "label": "Grupos de Clientes" },
+          "group_company": { "label": "Grupos de Empresas" }
+        }
+        
+      },
+      "search": {
+        "label": "Pesquisa"
+      },
+      "requests": {
+        "label": "Requisições"
+      },
+      "production": {
+        "label": "Produção"
+      },
+      "service": {
+        "label": "Atendimento"
+      },
+      "reports": {
+        "label": "Relatórios"
+      }
+    },
+    "user": {
+      "status": "",
+      "profile": "",
+      "feedback": "",
+      "settings": "",
+      "logout": ""
+    }
+  },
+  "layout": {}
+}
